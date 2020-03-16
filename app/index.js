@@ -15,7 +15,7 @@ module.exports = class extends Generator {
       {
         type: 'confirm',
         name: 'useTs',
-        message: 'Use TypeScirpt?',
+        message: 'Use TypeScript?',
         default: true,
       },
       {
