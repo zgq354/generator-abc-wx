@@ -1,0 +1,27 @@
+{
+  "name": "generator-abc-wx",
+  "version": "1.0.0",
+  "description": "Yeoman generator for WeChat MiniProgram development.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zgq354/generator-abc-wx.git"
+  },
+  "keywords": [
+    "yeoman",
+    "wechat",
+    "mini-program",
+    "miniapp"
+  ],
+  "author": "zgq354",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zgq354/generator-abc-wx/issues"
+  },
+  "homepage": "https://github.com/zgq354/generator-abc-wx#readme",
+  "files": [
+    "app"
+  ],
+  "dependencies": {
+    "yeoman-generator": "^4.7.2"
+  }
+}
